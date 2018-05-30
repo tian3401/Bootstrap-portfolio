@@ -1,0 +1,46 @@
+
+img{
+    width: 200px;
+    height: 200px;
+    float: left;
+    padding-right: 20px;
+}
+
+.navbar-header{
+    color: white;   
+    height: 60px;
+}
+
+.navbar-brand{
+    padding-top: 15px;
+    /* padding-left: 205px */
+}
+
+.col-md-8{
+    border: solid;
+    margin: 40px auto;
+    padding: 20px 20px;
+    border: solid 2px;
+}
+
+.col-md-12{
+    height: 40px;
+}
+
+
+.portfolio-box{
+    float: left;
+    width:200px;
+    height:200px;
+    margin: 10px 10px;
+}
+
+.footer{
+    background-color: #343a40;
+    color: white;
+    height: 60px;
+    width: 100%;
+    bottom:0;
+    position: fixed;
+    text-align: center;
+}
